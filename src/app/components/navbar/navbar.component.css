@@ -1,0 +1,16 @@
+*{
+    font-weight: 700;
+    color: #fff;
+  }
+
+  .navbar-toggler{
+    background-color: #7c7c7c;
+  }
+
+  .active-link{
+    color: violet;
+  }
+
+  .active-link a{
+    color: violet;
+  }
