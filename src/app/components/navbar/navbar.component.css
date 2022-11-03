@@ -1,10 +1,11 @@
 *{
     font-weight: 700;
     color: #fff;
+    font-size: 14px;
   }
 
   .navbar-toggler{
-    background-color: #7c7c7c;
+    border-color: #fff;
   }
 
   .active-link{
