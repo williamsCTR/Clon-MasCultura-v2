@@ -32,3 +32,34 @@
         padding: 70px;
     }
 }
+
+/*carousel*/
+
+.beneficios{
+    text-align: center;
+}
+
+
+.beneficios h2{
+    color:  rgba(219,79,156);
+    font-weight: 700;
+}
+
+.img{
+    width: 32%;
+    height: 50%;
+}
+
+.button{
+    border-radius: 2px;
+    color:  rgba(219,79,156);
+    border: solid 1px;
+    font-weight: 700;
+}
+
+
+@media screen and (max-width:600px){
+    .img_none{
+        display: none;
+    }
+}
