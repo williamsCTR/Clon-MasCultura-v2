@@ -1,17 +1,25 @@
-*{
-    font-weight: 700;
-    color: #fff;
-    font-size: 14px;
-  }
+* {
+  font-weight: 700;
+  color: #fff;
+  font-size: 14px;
+}
 
-  .navbar-toggler{
-    border-color: #fff;
-  }
+.navbar-toggler {
+  border-color: #fff;
+}
 
-  .active-link{
-    color: violet;
-  }
+.active-link {
+  color: rgb(219, 79, 156);
+}
 
-  .active-link a{
-    color: violet;
-  }
+.active-link-tengoMasCultura {
+  color: rgb(252, 185, 0);
+}
+
+.active-link-oferentesCulturales {
+  color: rgb(157, 0, 255);
+}
+
+.active-link-novedades {
+  color: rgb(0, 88, 255);
+}
