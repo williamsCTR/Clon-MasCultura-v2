@@ -9,6 +9,9 @@ import { QueEsComponent } from './components/que-es/que-es.component';
 import { WallComponent } from './components/wall/wall.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { LogosComponent } from './components/logos/logos.component';
+import { TengoMasCulturaComponent } from './components/tengo-mas-cultura/tengo-mas-cultura.component';
+import { OferentesCulturalesComponent } from './components/oferentes-culturales/oferentes-culturales.component';
+import { NovedadesComponent } from './components/novedades/novedades.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +21,10 @@ import { LogosComponent } from './components/logos/logos.component';
     QueEsComponent,
     WallComponent,
     FooterComponent,
-    LogosComponent
+    LogosComponent,
+    TengoMasCulturaComponent,
+    OferentesCulturalesComponent,
+    NovedadesComponent
   ],
   imports: [
     BrowserModule,

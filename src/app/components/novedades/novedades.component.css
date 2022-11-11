@@ -1,0 +1,23 @@
+.novedades__container0{
+    background: linear-gradient(180deg, rgba(0,88,255) 0%, rgba(219,79,156) 100%);
+}
+
+.container{
+    background: rgb(255, 255, 255);
+}
+
+.container__card{
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.card-img-top{
+    transition: 1.5s;
+    object-fit: cover;
+}
+
+.card-img-top:hover{
+    transition: 1.5s;
+    transform: scale(1.2);
+}

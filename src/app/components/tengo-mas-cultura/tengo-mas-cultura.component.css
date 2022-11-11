@@ -1,0 +1,44 @@
+/*OFERENTES CULTURALES*/
+
+.oferentesCulturales__container{
+    background: linear-gradient(rgba(255,194,0,1), rgba(219,79,156,1));;
+}
+
+.container__mid{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.container__mid{
+    background: #fff;
+    color:  rgba(219,79,156);
+}
+
+.container__card0{
+    background:rgba(255,194,0,1) ;
+    color: #000;
+}
+
+.container__card1{
+    color: #fff;
+    background: rgba(219,79,156);
+}
+
+.hr__card{
+    border-width: 10px;
+}
+
+.botones{
+    border: solid 1px;
+    color: #000;
+    border-radius: 0%;
+    font-weight: 600;
+}
+
+.botones:hover{
+    background: #fff;
+    border: none;
+    font-weight: 600;
+}
+
+/*PREGUNTAS*/
